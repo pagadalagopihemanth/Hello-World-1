@@ -1,2 +1,2 @@
 # Hello-World
-Creative - Greetings The World 
+print("Hello World")
